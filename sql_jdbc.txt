@@ -1,0 +1,16 @@
+CREATE TABLE Customer (
+    username varchar(50),
+    password varchar(50),
+    name varchar(50),
+    age int,
+    gender varchar(50),
+    email varchar(50),
+    aadharNumber varchar(50),
+    phoneNumber varchar(50)
+   
+);
+CREATE TABLE Account (
+   
+   balance float,
+   accountNo int
+);
